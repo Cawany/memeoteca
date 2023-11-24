@@ -1,0 +1,184 @@
+{
+  "pensamentos": [
+    {
+      "conteudo": "A força está com você!",
+      "batatinha": "modelo2",
+      "modelo": "modelo3",
+      "id": 1
+    },
+    {
+      "conteudo": "Amor verdadeiro só de mãe    ",
+      "batatinha": "Deus",
+      "modelo": "modelo3",
+      "id": 2
+    },
+    {
+      "id": 3,
+      "conteudo": "Deixa a vida me levar",
+      "autoria": null,
+      "modelo": "modelo3"
+    },
+    {
+      "conteudo": "A palavra “impossível” foi inventada para ser desafiada.",
+      "batatinha": "modelo2",
+      "modelo": "modelo3",
+      "id": 4
+    },
+    {
+      "conteudo": "Somos capazes de fazer muito mais do que imaginamos!",
+      "batatinha": "modelo3",
+      "modelo": "modelo3",
+      "id": 5
+    },
+    {
+      "conteudo": "Há ainda tanta coisa linda na vida para se descobrir.",
+      "batatinha": "modelo1",
+      "modelo": "modelo3",
+      "id": 6
+    },
+    {
+      "conteudo": "Nós somos como o clima: feitos de dias de chuva e de sol!",
+      "batatinha": "Deus",
+      "modelo": "modelo3",
+      "id": 7
+    },
+    {
+      "conteudo": "Abra os olhos e aventure-se nessa jornada chamada vida!",
+      "batatinha": "Deus",
+      "modelo": "modelo3",
+      "id": 8
+    },
+    {
+      "conteudo": "Se Deus quiser vai acontecer",
+      "autoria": "Deus ",
+      "modelo": "modelo2",
+      "id": 11
+    },
+    {
+      "conteudo": "Deus sabe de tudo ",
+      "autoria": "Deus",
+      "modelo": "modelo1",
+      "id": 12
+    },
+    {
+      "conteudo": "Amigos não mentem",
+      "autoria": "Eleven",
+      "modelo": "modelo1",
+      "id": 14
+    },
+    {
+      "conteudo": "Amigos não mentem",
+      "autoria": "Eleven",
+      "modelo": "modelo1",
+      "id": 15
+    },
+    {
+      "conteudo": "Mesmo se o fundo do oceano arenoso se dividir em dois, mesmo se alguém sacudir este mundo, nunca solte minha mão",
+      "autoria": "Euphoria",
+      "modelo": "modelo1",
+      "id": 16
+    },
+    {
+      "conteudo": "Você é minha alma gêmea. Por toda a eternidade, continue ficando aqui",
+      "autoria": "Friends",
+      "modelo": "modelo1",
+      "id": 17
+    },
+    {
+      "conteudo": "Deus ",
+      "autoria": "Jesus",
+      "modelo": "modelo1",
+      "id": 18
+    },
+    {
+      "conteudo": "Você é minha alma gêmea. Por toda a eternidade, continue ficando aqui",
+      "autoria": "Friends",
+      "modelo": "modelo1",
+      "id": 20
+    },
+    {
+      "conteudo": "Você é minha alma gêmea. Por toda a eternidade, continue ficando aqui",
+      "autoria": "Friends",
+      "modelo": "modelo1",
+      "id": 21
+    },
+    {
+      "conteudo": "Deus ",
+      "autoria": "Deus",
+      "modelo": "modelo1",
+      "id": 23
+    },
+    {
+      "conteudo": "Deus é  bom ",
+      "autoria": "Deus",
+      "modelo": "modelo1",
+      "id": 25
+    },
+    {
+      "conteudo": "Deus",
+      "autoria": "Deus",
+      "modelo": "modelo1",
+      "id": 26
+    },
+    {
+      "conteudo": "Honrar pai e mãe",
+      "autoria": "Mandamento",
+      "modelo": "modelo3",
+      "id": 27
+    },
+    {
+      "conteudo": "Teste",
+      "autoria": "Teste",
+      "modelo": "modelo1",
+      "id": 28
+    },
+    {
+      "conteudo": "Cuidar é bom",
+      "autoria": "Telepatia",
+      "modelo": "modelo2",
+      "id": 29
+    },
+    {
+      "conteudo": "Deus",
+      "autoria": "Deus",
+      "modelo": "modelo2",
+      "id": 30
+    },
+    {
+      "conteudo": "modelo",
+      "autoria": "modelo",
+      "modelo": "modelo2",
+      "id": 31
+    },
+    {
+      "conteudo": "Melissa",
+      "autoria": "Mel",
+      "modelo": "modelo3",
+      "id": 32
+    },
+    {
+      "conteudo": "Teste",
+      "autoria": "Teste1",
+      "modelo": "modelo3",
+      "id": 33
+    },
+    {
+      "conteudo": "Deus",
+      "autoria": "Teste3",
+      "modelo": "modelo3",
+      "id": 34
+    },
+    {
+      "conteudo": "Teste",
+      "autoria": "Deus é bom",
+      "modelo": "modelo3",
+      "id": 35
+    },
+    {
+      "conteudo": "Deus é bom",
+      "autoria": "Deus ",
+      "modelo": "modelo3",
+      "id": 36
+    }
+  ]
+}
