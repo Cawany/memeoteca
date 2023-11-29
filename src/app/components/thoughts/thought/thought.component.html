@@ -11,15 +11,23 @@
     <b>{{ pensamento.autoria }}</b>
   </p>
   <div class="acoes">
-    <button class="botao-editar" (click)="setPensamentoFilho()">
+    <button
+      class="botao-editar"
+      routerLink="/thoughts/editarPensamento/{{ pensamento.id }}"
+    >
       <img src="/assets/Imagens/icone-editar.png" alt="Ícone de editar" />
     </button>
-    <button class="botao-editar" routerLink="/thoughts/editarPensamento/{{pensamento.id}}">
-      <img src="/assets/Imagens/icone-editar.png" alt="Ícone de editar" />
-    </button>
-    <button class="botao-excluir" routerLink="/thoughts/excluirPensamento/{{pensamento.id}}">
+
+    <button
+      class="botao-excluir"
+      routerLink="/thoughts/excluirPensamento/{{ pensamento.id }}"
+    >
       <img src="/assets/Imagens/icone-excluir.png" alt="Ícone de excluir" />
     </button>
+
+    <button class="botao-favorito" (click)="atualizarFav()">
+      <img src="/assets/Imagens//icone-favorito-{{ mudarIcone() }}.png" alt="Ícone de favorito {{ mudarIcone() }}" />
+    </button> 
+    <!-- (click)="setPensamentoFilho()" -->
   </div>
 </div>
-

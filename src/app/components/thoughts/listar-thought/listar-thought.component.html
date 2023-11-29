@@ -11,7 +11,14 @@
       />
       <!-- <img src="/src/assets/Imagens/lupa.png" alt="lupa"> -->
     </div>
-    <h2 class="ff-inter">Meu Mural</h2>
+
+    <h2 class="ff-inter">{{ titulo }}</h2>
+    <div class="botoes">
+      <button (click)="voltarComponente()" class="botao">Meu Mural</button>
+
+      <button class="botao" (click)="listaFavoritos()">Meus favoritos</button>
+
+    </div>
     <button routerLink="/criarPensamento" class="botao">
       Adicionar pensamento
     </button>
@@ -20,7 +27,7 @@
     <div *ngFor="let item of listaPensamentos">
       <app-thought
         [pensamento]="item"
-        (onPensamento)="setPensamentoPai($event)"
+        [listaFavoritosPensamentos]="listaFavoritosPensamentos"
       ></app-thought>
     </div>
   </div>
@@ -36,3 +43,5 @@
     <p>Ainda não há pensamentos cadastrados!</p>
   </div>
 </ng-template>
+
+<!-- (onPensamento)="setPensamentoPai($event)" -->
